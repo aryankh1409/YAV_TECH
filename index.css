@@ -52,7 +52,7 @@ button{
     justify-content: space-between;
 }
 .call-txt{
-    color:rgb(4, 0, 255);
+    color:red
 }
 .usr-entry{
     border: 1px solid #f80;
